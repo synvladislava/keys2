@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 211" width="27" height="20">
+	<title>menu_mobile-svg</title>
+	<defs>
+		<image  width="290" height="211" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAADTAQMAAAAfyYz9AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAzklEQVR4nO3XsQ3CMBRF0Y8oKBkho3g0ZzRGYYSUFCgmthAl7xY2JNK79SksE2z/iEjle1G7CFQeVU1KrVVlpcq8KYnKLeKk1R0svi2fqatWT7ARbSuSVoWqDNTcVQG0/URWe1cZqL5fTgKKfveTRiv917IT4KzVQk8mdsqBreCnr1z+Es4559whYncaux+TUu2ulaje2+yl8Pu5g6mk1V+mE4B2/Nq2GqEyUEefTnrOMJ5OnHPOucF5Oql5Ovm033e01QiVgfJ08u7o08kL7vWsd4MOgB8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer" href="#img1" x="0" y="0" />
+</svg>
